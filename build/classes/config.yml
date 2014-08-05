@@ -1,6 +1,0 @@
-# This checks for a new version of the plugin automatically.
-AutoUpdater: true
-
-# If you want some extra feature, please create a ticket in Bukkit.
-# http://dev.bukkit.org/bukkit-plugins/jesus997-SignEdit/
-configVersion: 1.0
